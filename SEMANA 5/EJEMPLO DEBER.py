@@ -1,5 +1,5 @@
 # Programa para convertir grados Celsius a Fahrenheit
-# Autor: [Tu nombre]
+
 # Este programa pide al usuario una temperatura en grados Celsius y muestra su equivalente en Fahrenheit.
 
 def convertir_celsius_a_fahrenheit(celsius: float) -> float:
