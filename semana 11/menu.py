@@ -1,4 +1,4 @@
-# main.py
+# main_gui.py
 from producto import Producto
 from inventario import Inventario
 
